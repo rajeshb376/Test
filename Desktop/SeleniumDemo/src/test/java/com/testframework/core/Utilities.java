@@ -37,7 +37,7 @@ import com.google.common.collect.ImmutableMap;
 
 public class Utilities 
 {
-	// class variable
+	// class variable class variable
 	final static String alphaNumerics = "ABCDEFGHIJKLMNOPQRSTUVWXYZ12345674890";
 	final static String alphabets = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
