@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression]">
+  <parameter name="browser" value="chrome"/>
+  <test name="Amazon Test Case(failed)">
+    <classes>
+      <class name="com.testframework.testscripts.TC001_Amazon">
+        <methods>
+          <include name="AmazonLogin"/>
+          <include name="launchURL"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.testframework.testscripts.TC001_Amazon -->
+    </classes>
+  </test> <!-- Amazon Test Case(failed) -->
+</suite> <!-- Failed suite [Regression] -->

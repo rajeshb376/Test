@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<test_suite>
+    <duration>0 Hrs 1 Mins 6 secs.</duration>
+    <end_time>Oct-30-2017 12:13:13 PM</end_time>
+    <id>OUA Automation Suite (0)</id>
+    <start_time>Oct-30-2017 12:12:07 PM</start_time>
+    <testcases>
+        <testcase id="Smoke Test Case">
+            <description>RegisterPlanUnitWeb</description>
+            <end_time>Oct-30-2017 12:13:10 PM</end_time>
+            <start_time>Oct-30-2017 12:12:14 PM</start_time>
+            <test_steps>
+                <test_step id="HomePage">
+                    <actual_result>Home page displayed</actual_result>
+                    <description>OUA Home page</description>
+                    <expected_result>Home page should be displayed</expected_result>
+                    <screenshot_path></screenshot_path>
+                    <status>Pass</status>
+                    <time_stamp>Oct-30-2017 12:12:45 PM</time_stamp>
+                </test_step>
+            </test_steps>
+        </testcase>
+    </testcases>
+</test_suite>

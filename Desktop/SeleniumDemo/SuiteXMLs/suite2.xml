@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke" verbose="1" annotations="JDK">
+   <parameter name="browser" value="firefox" />
+	<test name="HDFC erg Test Case">
+		<classes>
+			<class name="com.testframework.testscripts.TC001_Flipkart" />
+		</classes>
+	</test>
+</suite> 

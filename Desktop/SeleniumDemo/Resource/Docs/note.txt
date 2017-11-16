@@ -1,0 +1,15 @@
+https://www.hdfcergo.com/
+https://www.makemytrip.com/
+https://www.flipkart.com/
+
+
+
+
+*************allure result**********
+E:\SeleniumDemo>allure generate allure-results
+Report successfully generated to allure-report
+
+E:\SeleniumDemo>allure open
+Starting web server...
+2017-11-02 15:21:10.173:INFO::main: Logging initialized @203ms
+Server started at <http://192.168.49.2:65358/>. Press <Ctrl+C> to exit

@@ -1,0 +1,25 @@
+# Created on 2017-11-07T14:43:53.734
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+# Created on 2017-11-07T14:44:03.734
+Unexpected IOException with stream: [main] INFO com.testframework.pages.HomePage - ********Application Launchs Failure*****
+
+
+# Created on 2017-11-07T14:44:03.734
+Unexpected IOException: 6,1,com.testframework.testscripts.TC003_Hdfc2,HDFCLogin(com.testframework.testscripts.TC003_Hdfc2),null,null,null
+
+
+# Created on 2017-11-07T14:44:04.612
+Unexpected IOException with stream: Test Finished
+
+
+# Created on 2017-11-07T14:44:04.784
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

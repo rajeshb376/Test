@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<!--Application Settings-->
+	<entry key="SiteURl1">https://www.amazon.in/</entry>
+	<entry key="SiteURl2">https://www.makemytrip.com/</entry>
+	<entry key="SiteURl3">https://www.hdfcergo.com/</entry>
+	<entry key="TestDataSource">excel</entry>
+	<entry key="TestDataFileLocation">./testdata/Excel/testdata.xls</entry> 
+</properties>

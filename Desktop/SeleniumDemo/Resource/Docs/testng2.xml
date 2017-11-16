@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite" parallel="none">
+	<parameter name="browser" value="chrome" />
+	<test name="Test1">
+		<classes>
+			<class name="com.oua.sphinx.TS.Multibrowser" />
+		</classes>
+	</test>
+
+	<test name="Test2">
+		<classes>
+			<class name="com.oua.sphinx.TS.Multibrowser" />
+		</classes>
+
+	</test>
+
+</suite>
+

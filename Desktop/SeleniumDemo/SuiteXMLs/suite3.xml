@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke" verbose="1" annotations="JDK">
+   <parameter name="browser" value="chrome" />
+	<test name="HDFC ERGO Calculate premium">
+		<classes>
+			<class name="com.testframework.testscripts.TC002_Hdfc" />
+		</classes>
+	</test>
+</suite> 

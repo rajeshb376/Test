@@ -1,0 +1,7 @@
+com\testframework\testdata\TestDataProvider.class
+com\testframework\core\Configuration.class
+com\testframework\testscripts\ExtentManager.class
+com\testframework\pages\HdfcErgoHomePage.class
+com\testframework\pages\HomePage.class
+com\testframework\testscripts\TC001_Amazon.class
+com\testframework\core\Utilities.class

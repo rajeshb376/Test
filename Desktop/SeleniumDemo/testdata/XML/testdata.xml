@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testdata>
+	<testcase id="Flipkart Test Case">
+		<iteration id="1">
+			<entry key="Email">8974142583</entry>
+			<entry key="Password">@Karthik2$</entry>
+			<entry key="Domain">Electronics</entry>			
+		</iteration>
+	</testcase>
+</testdata>

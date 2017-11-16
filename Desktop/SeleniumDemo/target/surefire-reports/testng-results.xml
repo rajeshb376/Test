@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Master Regression" duration-ms="0" started-at="2017-11-08T08:25:57Z" finished-at="2017-11-08T08:25:57Z">
+    <groups>
+    </groups>
+  </suite> <!-- Master Regression -->
+  <suite name="Regression" duration-ms="57185" started-at="2017-11-08T08:24:59Z" finished-at="2017-11-08T08:25:57Z">
+    <groups>
+    </groups>
+    <test name="Amazon Test Case" duration-ms="57185" started-at="2017-11-08T08:24:59Z" finished-at="2017-11-08T08:25:57Z">
+      <class name="com.testframework.testscripts.TC003_Hdfc2">
+        <test-method status="PASS" signature="launchURL(java.lang.String)[pri:0, instance:com.testframework.testscripts.TC003_Hdfc2@756cf158]" name="launchURL" is-config="true" duration-ms="11053" started-at="2017-11-08T13:54:59Z" finished-at="2017-11-08T13:55:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method status="PASS" signature="HDFCLogin()[pri:0, instance:com.testframework.testscripts.TC003_Hdfc2@756cf158]" name="HDFCLogin" duration-ms="44965" started-at="2017-11-08T13:55:11Z" finished-at="2017-11-08T13:55:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HDFCLogin -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.testframework.testscripts.TC003_Hdfc2@756cf158]" name="afterTest" is-config="true" duration-ms="1023" started-at="2017-11-08T13:55:56Z" finished-at="2017-11-08T13:55:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.testframework.testscripts.TC003_Hdfc2 -->
+    </test> <!-- Amazon Test Case -->
+  </suite> <!-- Regression -->
+</testng-results>
